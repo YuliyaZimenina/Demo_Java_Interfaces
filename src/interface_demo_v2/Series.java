@@ -1,3 +1,5 @@
+package interface_demo_v2;
+
 // Interface for a class that generates a sequence of numbers
 public interface Series {
     int getNext(); // Method to return the next number in a sequence

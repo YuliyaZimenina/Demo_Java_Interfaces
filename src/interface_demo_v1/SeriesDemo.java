@@ -1,3 +1,5 @@
+package interface_demo_v1;
+
 public class SeriesDemo {
     public static void main(String[] args) {
        ByTwoSeries byTwoSeries = new ByTwoSeries();
